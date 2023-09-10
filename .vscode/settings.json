@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.port": 0
+}
